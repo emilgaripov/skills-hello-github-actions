@@ -1,5 +1,5 @@
 <header>
-
+such as adding an emoji to your README.md file
 # Hello GitHub Actions
 
 _Create and run a GitHub Actions workflow._
